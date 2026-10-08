@@ -1,0 +1,5 @@
+{
+  "name": "zokov-mods",
+  "owner": { "name": "zokov" },
+  "plugins": [{ "name": "doom", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "doom",
+  "version": "0.2.0",
+  "description": "/doom plays real DOOM (doomgeneric + Freedoom) in a pane, any time",
+  "author": { "name": "zokov" }
+}
